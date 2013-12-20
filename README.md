@@ -1,3 +1,14 @@
+This is an attempt at adding [Origami](http://facebook.github.io/origami/) support to [Qtzweb](http://badassjs.com/post/39479159669/qtzweb-a-quartz-composer-to-webgl-javascript). 
+
+This is still very much a Work in Progress, and should not be used by anyone. 
+
+Go to daeken/Qtzweb, the original repo, for better sources.
+
+Oh god help us. 
+
+======
+
+
 Qtzweb
 ======
 
